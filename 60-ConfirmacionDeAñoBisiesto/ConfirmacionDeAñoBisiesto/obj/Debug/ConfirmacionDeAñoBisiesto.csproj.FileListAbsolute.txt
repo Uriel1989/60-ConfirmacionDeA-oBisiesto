@@ -1,0 +1,12 @@
+C:\Users\tauro\Desktop\ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\bin\Debug\ConfirmacionDeAñoBisiesto.exe
+C:\Users\tauro\Desktop\ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\bin\Debug\ConfirmacionDeAñoBisiesto.pdb
+C:\Users\tauro\Desktop\ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.exe
+C:\Users\tauro\Desktop\ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\60-ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\bin\Debug\ConfirmacionDeAñoBisiesto.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\60-ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\bin\Debug\ConfirmacionDeAñoBisiesto.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\60-ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\60-ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\60-ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\60-ConfirmacionDeAñoBisiesto\ConfirmacionDeAñoBisiesto\obj\Debug\ConfirmacionDeAñoBisiesto.pdb
